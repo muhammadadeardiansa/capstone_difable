@@ -1,12 +1,13 @@
 @extends('layout')
 
 @section('content')
-<h1>Kuis: {{ $subject->name }}</h1>
+<a href="/" class="btn-back">Kembali</a>
+<h1>{{ $subject->name }}</h1>
 <div id="question-container">
     <h2 id="question">Klik tombol untuk memulai kuis!</h2>
-    <div id="options" class="d-flex flex-wrap justify-content-center"></div>
-    <p id="feedback" class="mt-3"></p>
-    <button id="generate-question" class="btn btn-primary mt-3">Generate Soal</button>
+    <div id="options"></div>
+    <p id="feedback" class="feedback"></p>
+    <button id="generate-question">Generate Soal</button>
 </div>
 
 <script>
