@@ -1,0 +1,264 @@
+{
+  "questions": [
+      {
+          "question": "Berapa Hasil dari 3 + 5",
+          "options": ["5", "8", "10"],
+          "answer": "8"
+      },
+      {
+          "question": "Berapa Hasil dari 12 - 4",
+          "options": ["6", "7", "8"],
+          "answer": "8"
+      },
+      {
+          "question": "Berapa Hasil dari 7 + 9",
+          "options": ["15", "16", "17"],
+          "answer": "16"
+      },
+      {
+          "question": "Berapa Hasil dari 5 - 3",
+          "options": ["1", "2", "3"],
+          "answer": "2"
+      },
+      {
+          "question": "Berapa Hasil dari 10 + 15",
+          "options": ["20", "25", "30"],
+          "answer": "25"
+      },
+      {
+          "question": "Berapa Hasil dari 14 - 7",
+          "options": ["6", "7", "8"],
+          "answer": "7"
+      },
+      {
+          "question": "Berapa Hasil dari 6 + 4",
+          "options": ["9", "10", "11"],
+          "answer": "10"
+      },
+      {
+          "question": "Berapa Hasil dari 8 - 2",
+          "options": ["5", "6", "7"],
+          "answer": "6"
+      },
+      {
+          "question": "Berapa Hasil dari 13 + 3",
+          "options": ["15", "16", "17"],
+          "answer": "16"
+      },
+      {
+          "question": "Berapa Hasil dari 9 - 4",
+          "options": ["4", "5", "6"],
+          "answer": "5"
+      },
+      {
+          "question": "Berapa Hasil dari 11 + 6",
+          "options": ["16", "17", "18"],
+          "answer": "17"
+      },
+      {
+          "question": "Berapa Hasil dari 20 - 5",
+          "options": ["14", "15", "16"],
+          "answer": "15"
+      },
+      {
+          "question": "Berapa Hasil dari 15 + 7",
+          "options": ["21", "22", "23"],
+          "answer": "22"
+      },
+      {
+          "question": "Berapa Hasil dari 9 - 8",
+          "options": ["0", "1", "2"],
+          "answer": "1"
+      },
+      {
+          "question": "Berapa Hasil dari 18 + 4",
+          "options": ["21", "22", "23"],
+          "answer": "22"
+      },
+      {
+          "question": "Berapa Hasil dari 16 - 9",
+          "options": ["6", "7", "8"],
+          "answer": "7"
+      },
+      {
+          "question": "Berapa Hasil dari 2 + 6",
+          "options": ["7", "8", "9"],
+          "answer": "8"
+      },
+      {
+          "question": "Berapa Hasil dari 17 - 10",
+          "options": ["6", "7", "8"],
+          "answer": "7"
+      },
+      {
+          "question": "Berapa Hasil dari 3 + 12",
+          "options": ["14", "15", "16"],
+          "answer": "15"
+      },
+      {
+          "question": "Berapa Hasil dari 14 - 5",
+          "options": ["8", "9", "10"],
+          "answer": "9"
+      },
+      {
+          "question": "Berapa Hasil dari 5 + 9",
+          "options": ["13", "14", "15"],
+          "answer": "14"
+      },
+      {
+          "question": "Berapa Hasil dari 10 - 3",
+          "options": ["6", "7", "8"],
+          "answer": "7"
+      },
+      {
+          "question": "Berapa Hasil dari 8 + 5",
+          "options": ["12", "13", "14"],
+          "answer": "13"
+      },
+      {
+          "question": "Berapa Hasil dari 7 - 2",
+          "options": ["4", "5", "6"],
+          "answer": "5"
+      },
+      {
+          "question": "Berapa Hasil dari 11 + 8",
+          "options": ["18", "19", "20"],
+          "answer": "19"
+      },
+      {
+          "question": "Berapa Hasil dari 17 - 6",
+          "options": ["10", "11", "12"],
+          "answer": "11"
+      },
+      {
+          "question": "Berapa Hasil dari 13 + 9",
+          "options": ["21", "22", "23"],
+          "answer": "22"
+      },
+      {
+          "question": "Berapa Hasil dari 6 - 3",
+          "options": ["2", "3", "4"],
+          "answer": "3"
+      },
+      {
+          "question": "Berapa Hasil dari 5 + 14",
+          "options": ["18", "19", "20"],
+          "answer": "19"
+      },
+      {
+          "question": "Berapa Hasil dari 16 - 11",
+          "options": ["4", "5", "6"],
+          "answer": "5"
+      },
+      {
+          "question": "Berapa Hasil dari 12 + 5",
+          "options": ["16", "17", "18"],
+          "answer": "17"
+      },
+      {
+          "question": "Berapa Hasil dari 10 - 6",
+          "options": ["3", "4", "5"],
+          "answer": "4"
+      },
+      {
+          "question": "Berapa Hasil dari 8 + 7",
+          "options": ["14", "15", "16"],
+          "answer": "15"
+      },
+      {
+          "question": "Berapa Hasil dari 9 - 5",
+          "options": ["3", "4", "5"],
+          "answer": "4"
+      },
+      {
+          "question": "Berapa Hasil dari 13 + 2",
+          "options": ["14", "15", "16"],
+          "answer": "15"
+      },
+      {
+          "question": "Berapa Hasil dari 6 - 1",
+          "options": ["4", "5", "6"],
+          "answer": "5"
+      },
+      {
+          "question": "Berapa Hasil dari 3 + 8",
+          "options": ["10", "11", "12"],
+          "answer": "11"
+      },
+      {
+          "question": "Berapa Hasil dari 18 - 10",
+          "options": ["7", "8", "9"],
+          "answer": "8"
+      },
+      {
+          "question": "Berapa Hasil dari 7 + 6",
+          "options": ["12", "13", "14"],
+          "answer": "13"
+      },
+      {
+          "question": "Berapa Hasil dari 11 - 4",
+          "options": ["6", "7", "8"],
+          "answer": "7"
+      },
+      {
+          "question": "Berapa Hasil dari 15 + 10",
+          "options": ["24", "25", "26"],
+          "answer": "25"
+      },
+      {
+          "question": "Berapa Hasil dari 19 - 13",
+          "options": ["5", "6", "7"],
+          "answer": "6"
+      },
+      {
+          "question": "Berapa Hasil dari 14 + 4",
+          "options": ["17", "18", "19"],
+          "answer": "18"
+      },
+      {
+          "question": "Berapa Hasil dari 9 - 7",
+          "options": ["1", "2", "3"],
+          "answer": "2"
+      },
+      {
+          "question": "Berapa Hasil dari 17 + 6",
+          "options": ["22", "23", "24"],
+          "answer": "23"
+      },
+      {
+          "question": "Berapa Hasil dari 5 - 2",
+          "options": ["2", "3", "4"],
+          "answer": "3"
+      },
+      {
+          "question": "Berapa Hasil dari 8 + 3",
+          "options": ["10", "11", "12"],
+          "answer": "11"
+      },
+      {
+          "question": "Berapa Hasil dari 10 - 9",
+          "options": ["0", "1", "2"],
+          "answer": "1"
+      },
+      {
+          "question": "Berapa Hasil dari 14 + 5",
+          "options": ["18", "19", "20"],
+          "answer": "19"
+      },
+      {
+          "question": "Berapa Hasil dari 6 - 4",
+          "options": ["1", "2", "3"],
+          "answer": "2"
+      },
+      {
+          "question": "Berapa Hasil dari 7 + 8",
+          "options": ["14", "15", "16"],
+          "answer": "15"
+      },
+      {
+          "question": "Berapa Hasil dari 9 - 2",
+          "options": ["6", "7", "8"],
+          "answer": "7"
+      }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "questions": [
+    {
+      "question": "Apa nama hewan yang memiliki belalai panjang?",
+      "options": ["Gajah", "Jerapah", "Kuda"],
+      "answer": "Gajah"
+    },
+    {
+      "question": "Apa nama lingkungan yang memiliki banyak pohon dan hewan liar?",
+      "options": ["Hutan", "Pantai", "Gunung"],
+      "answer": "Hutan"
+    },
+    {
+      "question": "Apa nama hewan yang memiliki leher sangat panjang?",
+      "options": ["Jerapah", "Zebra", "Harimau"],
+      "answer": "Jerapah"
+    },
+    {
+      "question": "Apa nama hewan yang dikenal sebagai raja hutan?",
+      "options": ["Singa", "Harimau", "Serigala"],
+      "answer": "Singa"
+    },
+    {
+      "question": "Apa nama tempat yang dikelilingi oleh air?",
+      "options": ["Pulau", "Laut", "Danau"],
+      "answer": "Pulau"
+    },
+    {
+      "question": "Apa nama hewan yang memiliki cangkang keras di punggungnya?",
+      "options": ["Kura-kura", "Buaya", "Ikan"],
+      "answer": "Kura-kura"
+    },
+    {
+      "question": "Apa nama lingkungan yang ditutupi oleh pasir dan sangat kering?",
+      "options": ["Gurun", "Padang Rumput", "Gunung"],
+      "answer": "Gurun"
+    },
+    {
+      "question": "Apa nama hewan yang bisa terbang dan memiliki paruh?",
+      "options": ["Burung", "Kelelawar", "Kupu-kupu"],
+      "answer": "Burung"
+    },
+    {
+      "question": "Apa nama lingkungan yang memiliki air asin dan luas sekali?",
+      "options": ["Laut", "Sungai", "Danau"],
+      "answer": "Laut"
+    },
+    {
+      "question": "Apa nama hewan yang memiliki warna hitam putih dan tinggal di hutan?",
+      "options": ["Zebra", "Panda", "Harimau"],
+      "answer": "Panda"
+    },
+    {
+      "question": "Apa nama tempat yang sering digunakan untuk bercocok tanam?",
+      "options": ["Sawah", "Hutan", "Gurun"],
+      "answer": "Sawah"
+    },
+    {
+      "question": "Apa nama hewan yang memproduksi susu dan tinggal di peternakan?",
+      "options": ["Sapi", "Kambing", "Domba"],
+      "answer": "Sapi"
+    },
+    {
+      "question": "Apa nama lingkungan yang memiliki banyak bunga dan tanaman kecil?",
+      "options": ["Taman", "Hutan", "Sawah"],
+      "answer": "Taman"
+    },
+    {
+      "question": "Apa nama hewan yang bisa hidup di air dan darat?",
+      "options": ["Katak", "Ikan", "Kura-kura"],
+      "answer": "Katak"
+    },
+    {
+      "question": "Apa nama tempat yang memiliki banyak batu besar dan biasanya tinggi?",
+      "options": ["Gunung", "Hutan", "Pantai"],
+      "answer": "Gunung"
+    },
+    {
+      "question": "Apa nama hewan yang memiliki ekor panjang dan suka melompat?",
+      "options": ["Kanguru", "Kera", "Kucing"],
+      "answer": "Kanguru"
+    },
+    {
+      "question": "Apa nama lingkungan tempat hewan-hewan liar tinggal secara bebas?",
+      "options": ["Hutan", "Kebun Binatang", "Ladang"],
+      "answer": "Hutan"
+    },
+    {
+      "question": "Apa nama hewan kecil yang memiliki sayap dan bisa menyengat?",
+      "options": ["Lebah", "Kupu-kupu", "Nyamuk"],
+      "answer": "Lebah"
+    },
+    {
+      "question": "Apa nama tempat yang memiliki ombak dan pasir?",
+      "options": ["Pantai", "Danau", "Laut"],
+      "answer": "Pantai"
+    },
+    {
+      "question": "Apa nama hewan yang memiliki taring tajam dan dikenal sebagai predator?",
+      "options": ["Serigala", "Domba", "Sapi"],
+      "answer": "Serigala"
+    },
+    {
+      "question": "Apa nama hewan yang memiliki dua tanduk dan digunakan untuk membajak sawah?",
+      "options": ["Kerbau", "Sapi", "Kuda"],
+      "answer": "Kerbau"
+    },
+    {
+      "question": "Apa nama tempat yang penuh dengan pohon kelapa dan sering digunakan untuk bersantai?",
+      "options": ["Pantai", "Hutan", "Ladang"],
+      "answer": "Pantai"
+    },
+    {
+      "question": "Apa nama hewan laut yang memiliki tentakel?",
+      "options": ["Gurita", "Ikan Paus", "Lumba-lumba"],
+      "answer": "Gurita"
+    },
+    {
+      "question": "Apa nama lingkungan yang ditutupi oleh es dan sangat dingin?",
+      "options": ["Kutub", "Gurun", "Gunung"],
+      "answer": "Kutub"
+    },
+    {
+      "question": "Apa nama hewan yang memiliki sayap warna-warni dan suka hinggap di bunga?",
+      "options": ["Kupu-kupu", "Lebah", "Lalat"],
+      "answer": "Kupu-kupu"
+    },
+    {
+      "question": "Apa nama tempat yang digunakan untuk menyimpan air dan biasanya besar?",
+      "options": ["Danau", "Sungai", "Sumur"],
+      "answer": "Danau"
+    },
+    {
+      "question": "Apa nama hewan yang berbulu tebal dan hidup di tempat dingin?",
+      "options": ["Beruang Kutub", "Singa", "Harimau"],
+      "answer": "Beruang Kutub"
+    },
+    {
+      "question": "Apa nama lingkungan yang sering dijadikan tempat wisata dan memiliki pemandangan indah?",
+      "options": ["Gunung", "Ladang", "Sawah"],
+      "answer": "Gunung"
+    },
+    {
+      "question": "Apa nama hewan kecil yang suka hidup di air dan memiliki insang?",
+      "options": ["Ikan", "Kodok", "Kura-kura"],
+      "answer": "Ikan"
+    },
+    {
+      "question": "Apa nama tempat yang dikelilingi pohon kelapa dan sering digunakan untuk santai?",
+      "options": ["Pantai", "Hutan", "Taman"],
+      "answer": "Pantai"
+    },
+    {
+      "question": "Apa nama hewan yang memiliki cakar tajam dan bisa terbang di malam hari?",
+      "options": ["Burung Hantu", "Elang", "Kelelawar"],
+      "answer": "Burung Hantu"
+    }
+  ]
+}
